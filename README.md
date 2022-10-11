@@ -48,30 +48,30 @@ Names/symbolism:
 
   Dietrich: German form of Theodoric.
   
-  Fyodor: from the Greek name Θεόδωρος (Theodoros), meaning "gift of god" from Greek θεός (theos) "god" and δῶρον (doron) "gift."
+  Fyodor: from the Greek name Θεόδωρος (_Theodoros_), meaning "gift of god" from Greek θεός (_theos_) "god" and δῶρον (_doron_) "gift."
   
   Gijsberta: from a Germanic name composed of a shortened form of _gisil_ "pledge, hostage" and _beraht_ "bright."
   
-  Jadwiga: From the Germanic name Hadewig, derived from the Germanic elements hadu "battle, combat" and wig "war." This name was borne by a 14th century queen of Poland who has been canonized as a saint.
+  Jadwiga: From the Germanic name Hadewig, derived from the Germanic elements _hadu_ "battle, combat" and _wig_ "war." This name was borne by a 14th century queen of Poland who has been canonized as a saint.
   
-  Ludwig: from the Germanic name Chlodovech meaning "famous battle", from the elements hlud "famous" and wig "war, battle." This name was borne by multiple Carolingian kings and Holy Roman emperors, as well as the German composer Ludwig van Beethoven and the Austrian philospher Ludwig Wittgenstein. In Hetalia, Germany's human name is also Ludwig.
+  Ludwig: from the Germanic name Chlodovech meaning "famous battle", from the elements _hlud_ "famous" and _wig_ "war, battle." This name was borne by multiple Carolingian kings and Holy Roman emperors, as well as the German composer Ludwig van Beethoven and the Austrian philospher Ludwig Wittgenstein. In Hetalia, Germany's human name is also Ludwig.
   
-  Luiza: feminine form of Ludovicus, the Latinized form of Ludwig.
+  Luiza: feminine form of _Ludovicus_, the Latinized form of Ludwig.
   
   Malina: means raspberry in various Slavic languages, including Polish. Raspberries can symbolize kindness and fragility.
   
-  Mathilde: from the Germanic name Mahthildis meaning "strength in battle," from the elements maht "might, strength" and hild "battle."
+  Mathilde: from the Germanic name _Mahthildis_ meaning "strength in battle," from the elements _maht_ "might, strength" and _hild_ "battle."
   
-  Stanislav: means "become glorious," from the Slavic elements stani "stand, become" and slava "glory." A popular saint in Poland bears this name (Stanisław Kostka, also known as Saint Stanislaus Kostka).
+  Stanislav: means "become glorious," from the Slavic elements _stani_ "stand, become" and _slava_ "glory." A popular saint in Poland bears this name (Stanisław Kostka, also known as Saint Stanislaus Kostka).
   
-  Theodoric: from a Germanic name meaning "ruler of the people," from the elements theud "people" and ric "ruler."
+  Theodoric: from a Germanic name meaning "ruler of the people," from the elements _theud_ "people" and _ric_ "ruler."
   
-  Waltraud: from the Germanic elements wald "power, ruler" or walha "foreign" combined with thrud "strength."
+  Waltraud: from the Germanic elements _wald_ "power, ruler" or _walha_ "foreign" combined with _thrud_ "strength."
 
 
 Other:
 
-  cognate: cognates are words across multiple languages that descended from the same ancesteral word in the same proto language. In names, that could mean names across miltiple languages in which the elements involved are cognates. For example, the names Надежда/Nadezhda (Russian, Bulgarian), Надія/Nadiya (Ukrainian), Надзея/Nadzeya (Belarusian), and Nadzieja (Polish) are all cognates for they all mean "hope" in their respective languages, derived from Church Slavic нада/nada "hope".
+  cognate: cognates are words across multiple languages that descended from the same ancesteral word in the same proto language. In names, that could mean names across miltiple languages in which the elements involved are cognates. For example, the names Надежда/_Nadezhda_ (Russian, Bulgarian), Надія/_Nadiya_ (Ukrainian), Надзея/_Nadzeya_ (Belarusian), and _Nadzieja_ (Polish) are all cognates for they all mean "hope" in their respective languages, derived from Church Slavic нада/_nada_ "hope".
   
   "Come, let me grind, and you take a rest": rough translation of "Daj, uć ja pobrusza, a ti pocziwaj", the earliest known sentence written in Polish (the modern Polish version would be "Daj, niech ja pomielę, a ty odpoczywaj" or "Pozwól, że ja będę mełł, a ty odpocznij"). The recorder of this phrase noted that "Hoc est in polonico" ("This is in Polish").
   
