@@ -4,9 +4,13 @@ Creator: BWPhoenix_P-I-E
 Most of the stuff that you need to know is already in the game, but some parts probably require prior knowledge. However, I will only give the most helpful bits of additional information. (use ctrl + f or command + f)
 
 Languages:
+
   Belarusian: an East Slavic language influenced by Polish. In fact, the entirety of Eastern Europe has been influenced by Polish.
+  
   Chinese: a Sino-Tibetan language that is very analytic and has no cases.
+  
   Czech: a West Slavic (Czech-Slovak) language. In simplifed terms, Czechia (and by extension Czech) has been Catholic, then somewhat Protestant, then rather atheist. Popular legend has it that the use of Czech in public marionette shows saved the Czech language under Hapsburg rule.
+  
   Dutch: a West Germanic language that is rather conservative. In this context, it refers to Standard Dutch (ABN).
   General American English (GAE): a variety of English (a West Germanic language) in America that lacks distinctive social and regional features.
   Georgian: a Kartvelian language with 7 cases.
