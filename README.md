@@ -2,7 +2,7 @@ Project name: Talk To OC Game
 Creator: BWPhoenix_P-I-E
 
 
-Most of the stuff that you need to know is already in the game, but some parts probably require prior knowledge. However, I will only give the most helpful bits of additional information. (use ctrl + f or command + f)
+Most of the stuff that you need to know is already in the game, but some parts probably require prior knowledge. Here are the most helpful bits of additional information. (use ctrl + f or command + f)
 
      
 Languages:
