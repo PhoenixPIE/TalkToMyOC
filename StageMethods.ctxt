@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StageMethods
+comment0.text=\r\n\ This\ program\ contains\ methods\ that\ print\ out\ a\ lot\ of\ text.\ These\ methods\ are\ separate\ from\ the\ main\ method\ so\ that\ if\ any\ similar\ games\ are\ made\ in\ the\ future,\ these\ methods\ can\ be\ called.\r\n
+comment1.params=
+comment1.target=java.lang.String\ enterName()
+comment1.text=\r\n\ Records\ the\ player's\ name\r\n\ @return\ the\ player's\ name\r\n
+comment2.params=n
+comment2.target=java.lang.String\ nameSpaces(java.lang.String)
+comment2.text=\r\n\ Counts\ spaces\ in\ a\ String\ and\ returns\ them.\ Used\ when\ the\ dialogue\ line\ is\r\n\ too\ long\ and\ needs\ to\ start\ on\ the\ next\ line.\r\n\ \r\n\ @param\ a\ String\ that\ is\ not\ full\ of\ spaces,\ or\ in\ this\ game,\ a\ name\r\n\ @return\ a\ String\ with\ the\ same\ number\ of\ charactes\ but\ they\ are\ all\ spaces\r\n
+comment3.params=
+comment3.target=void\ helloWelcome()
+comment3.text=\r\n\ Prints\ out\ welcoming\ text\r\n
+comment4.params=
+comment4.target=void\ mainMenuText()
+comment4.text=\r\n\ Prints\ out\ information\ in\ the\ main\ menu\ screen\r\n
+numComments=5

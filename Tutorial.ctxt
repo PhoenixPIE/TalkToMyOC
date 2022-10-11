@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tutorial
+comment0.text=\r\n\ This\ program\ contains\ a\ tutorial\ for\ the\ game\r\n
+comment1.params=
+comment1.target=void\ tutorialIntro()
+comment1.text=\r\n\ GA\ introduces\ the\ tutorial\ and\ asks\ what\ you\ want\r\n
+comment2.params=
+comment2.target=void\ tutorialGreeting()
+comment2.text=\r\n\ GA\ introduces\ the\ player\ to\ the\ Greeting\ stage\r\n
+comment3.params=
+comment3.target=void\ tutorialMainMenu()
+comment3.text=\r\n\ GA\ introduces\ the\ player\ to\ the\ main\ menu\ stage\r\n
+numComments=4
